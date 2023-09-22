@@ -20,6 +20,16 @@
  
  </div>
 
+ <div align="center"> 
+  <a href="mailto:kanhaiyapandey2232@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+ 
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -28,4 +38,18 @@
     <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,express,mongodb,c,java" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,express,mongodb,c,java" /><br>
     <img src="https://skillicons.dev/icons?i=react,r,bootstrap,html,css,vscode,git" />
-</div
+</div>
+
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KanhaiyaPandey/KanhaiyaPandey/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+
