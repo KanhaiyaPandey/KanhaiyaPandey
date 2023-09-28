@@ -36,15 +36,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,express,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,express,mongodb,c,java" /><br>
     <img src="https://skillicons.dev/icons?i=react,r,bootstrap,html,css,vscode,git" />
 </div>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KanhaiyaPandey/KanhaiyaPandey/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
-<hr/>
 
 
