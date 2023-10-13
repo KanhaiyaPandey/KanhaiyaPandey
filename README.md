@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on ** Youtube Clone **
  
- 🌱 I’m currently learning **javaScript, java, React , Express**
+ 🌱 I’m currently learning **MERN Stack**
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
