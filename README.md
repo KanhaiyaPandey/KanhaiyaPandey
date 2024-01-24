@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **A Full Stack Blood Donation Charity App **
  
- 🌱 I’m currently learning **MERN Stack**
+ 🌱 I’m currently learning **Next.js, typeScript**
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
